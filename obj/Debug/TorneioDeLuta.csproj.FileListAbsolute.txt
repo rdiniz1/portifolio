@@ -1,0 +1,13 @@
+C:\Users\renato.lima.soares\Desktop\Aula\TorneioDeLuta\obj\Debug\TorneioDeLuta.csprojAssemblyReference.cache
+C:\Users\renato.lima.soares\Desktop\Aula\TorneioDeLuta\obj\Debug\TorneioDeLuta.Form1.resources
+C:\Users\renato.lima.soares\Desktop\Aula\TorneioDeLuta\obj\Debug\TorneioDeLuta.Properties.Resources.resources
+C:\Users\renato.lima.soares\Desktop\Aula\TorneioDeLuta\obj\Debug\TorneioDeLuta.csproj.GenerateResource.cache
+C:\Users\renato.lima.soares\Desktop\Aula\TorneioDeLuta\bin\Debug\TorneioDeLuta.exe.config
+C:\Users\renato.lima.soares\Desktop\Aula\TorneioDeLuta\bin\Debug\TorneioDeLuta.exe
+C:\Users\renato.lima.soares\Desktop\Aula\TorneioDeLuta\bin\Debug\TorneioDeLuta.pdb
+C:\Users\renato.lima.soares\Desktop\Aula\TorneioDeLuta\bin\Debug\Newtonsoft.Json.dll
+C:\Users\renato.lima.soares\Desktop\Aula\TorneioDeLuta\bin\Debug\Newtonsoft.Json.xml
+C:\Users\renato.lima.soares\Desktop\Aula\TorneioDeLuta\obj\Debug\TorneioDeLuta.csproj.CopyComplete
+C:\Users\renato.lima.soares\Desktop\Aula\TorneioDeLuta\obj\Debug\TorneioDeLuta.exe
+C:\Users\renato.lima.soares\Desktop\Aula\TorneioDeLuta\obj\Debug\TorneioDeLuta.pdb
+C:\Users\renato.lima.soares\Desktop\Aula\TorneioDeLuta\obj\Debug\TorneioDeLuta.Form2.resources
